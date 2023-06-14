@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "439519139365",
+    "project_id": "knustcoc-a09dc",
+    "storage_bucket": "knustcoc-a09dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439519139365:android:fe023df23d43751af311cc",
+        "android_client_info": {
+          "package_name": "com.example.knust_coc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439519139365-18jbres71rfundamj8l0dpgjg9f39d58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZjqeG45Saszk6NNXMG_mWmfV1H_jiRlg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439519139365-18jbres71rfundamj8l0dpgjg9f39d58.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
